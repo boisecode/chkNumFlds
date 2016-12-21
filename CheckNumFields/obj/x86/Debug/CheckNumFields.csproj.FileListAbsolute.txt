@@ -1,0 +1,11 @@
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\bin\Debug\CheckNumFields.exe
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\bin\Debug\CheckNumFields.pdb
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\obj\x86\Debug\MainWindow.baml
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\obj\x86\Debug\MainWindow.g.cs
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\obj\x86\Debug\App.g.cs
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\obj\x86\Debug\CheckNumFields_MarkupCompile.cache
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\obj\x86\Debug\CheckNumFields.g.resources
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\obj\x86\Debug\CheckNumFields.Properties.Resources.resources
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\obj\x86\Debug\CheckNumFields.csproj.GenerateResource.Cache
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\obj\x86\Debug\CheckNumFields.exe
+C:\Rdrive\tools\csharp\CheckNumFields\CheckNumFields\obj\x86\Debug\CheckNumFields.pdb
